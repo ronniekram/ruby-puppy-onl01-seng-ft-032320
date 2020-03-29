@@ -23,4 +23,8 @@ class Dog
       puts dog
     end
   end 
+  
+  def self.clear_all
+    
+  end 
 end 

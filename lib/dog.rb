@@ -12,7 +12,7 @@ class Dog
   
   def self.save
     if initialize(name)
-      @@all << name
+      @@all << self
     end 
   end 
   
